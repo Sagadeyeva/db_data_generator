@@ -1,5 +1,0 @@
-local
-city
-region
-country
-world
