@@ -1,0 +1,35 @@
+Albeniz, Isaac
+Bach, Johann Sebastian
+Beethoven, Ludwig
+Bizet, Georges
+Boccherini, Luigi
+Brahms, Johannes
+Byrd, William
+Charpentier, Marc-Antoine
+Chopin, Frederic
+Debussy, Claude
+Dvorak, Antonin
+Elgar, Edward
+Grieg, Edvard
+Handel, George Frideric
+Haydn, Franz Joseph
+Holst, Gustav
+Mahler, Gustav
+Mendelssohn, Felix
+Mozart, Wolfgang Amadeus
+Mussorgsky, Modest
+Narváez, Luis de
+Pachelbel, Johann
+Purcell, Henry
+Rachmaninoff, Sergei
+Saint-Saens, Camille
+Satie, Erik
+Schubert, Franz
+Schumann, Robert
+Sor, Fernando
+Strauss, Johann
+Tallis, Thomas
+Tárrega, Francisco
+Tchaikovsky, Pyotr Ilyich
+Vivaldi, Antonio
+Wagner, Richard
